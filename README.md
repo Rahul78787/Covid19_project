@@ -1,6 +1,6 @@
 # Covid19_project
 
-Data_analaysis_covid_2.ipynb
+#Data_analaysis_covid_2.ipynb
 Covid 19 Data Analysis Project Using Python:  COVID19 Data Analysis Using Python
 Know the measures that your data sources need to be prepared for analysis
 Know how to look at your data in order to find a reasonable way to base your analysis
